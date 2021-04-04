@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.capital{
+    width: 400px;
+    margin: 0 auto;
+}
+
+#list_of_capital{
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    flex-wrap: wrap;
+}
